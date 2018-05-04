@@ -1,6 +1,6 @@
-package com.wangcan.study.controller;
+package com.wangcan.study.controller.hellowtest;
 
-import com.wangcan.study.service.IHellowWorldService;
+import com.wangcan.study.service.hellow.IHellowWorldService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

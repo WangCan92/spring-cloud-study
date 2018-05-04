@@ -1,6 +1,6 @@
-package com.wangcan.study.service.impl;
+package com.wangcan.study.service.impl.hellow;
 
-import com.wangcan.study.service.IHellowWorldService;
+import com.wangcan.study.service.hellow.IHellowWorldService;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
