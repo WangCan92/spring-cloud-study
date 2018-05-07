@@ -20,6 +20,7 @@
         <module>spring-cloud-service</module>
         <module>spring-cloud-consumer</module>
         <module>spring-cloud-eurake</module>
+        <module>spring-cloud-activity</module>
     </modules>
 
 
